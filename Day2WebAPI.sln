@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2WebAPI", "Day2WebAPI\Day2WebAPI.csproj", "{6E3237EF-D49C-4D30-B974-E07985C562BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E3237EF-D49C-4D30-B974-E07985C562BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E3237EF-D49C-4D30-B974-E07985C562BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E3237EF-D49C-4D30-B974-E07985C562BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E3237EF-D49C-4D30-B974-E07985C562BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFEB591D-E89A-49C0-8EA5-1C0C730FF440}
+	EndGlobalSection
+EndGlobal
